@@ -1,4 +1,4 @@
-#!/usr/bin/env bash -e
+#!/usr/bin/env bash
 
 PROJECT_DIR="ios/VersioningRN"
 INFOPLIST_FILE="Info.plist"
