@@ -1,4 +1,3 @@
-#!/usr/bin/env bash -e
 
 PROJECT_DIR="ios/VersioningRN"
 INFOPLIST_FILE="Info.plist"
